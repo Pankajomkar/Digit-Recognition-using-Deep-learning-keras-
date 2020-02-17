@@ -1,1 +1,3 @@
-# Digit-Recognition-using-Deep-learning-keras-
+# Digit-Recognition-using-Machine-Learning
+
+The machine will identify the number given
